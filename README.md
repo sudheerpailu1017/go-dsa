@@ -1,4 +1,4 @@
-# Go DSA Learning Structure
+# Go DSA 
 
 Complete learning structure for Data Structures and Algorithms in Go, organized from simple to complex.
 
@@ -57,7 +57,7 @@ Complete learning structure for Data Structures and Algorithms in Go, organized 
 - `mathematical-algorithms.go` - GCD, prime numbers, factorial, modular arithmetic
 - `combinatorics.go` - Permutations, combinations, subsets
 
-### 📝 Data Structures
+### Data Structures
 
 #### Simple
 - `array.go` - Arrays (contiguous memory, indexed collections)
