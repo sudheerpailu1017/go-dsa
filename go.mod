@@ -1,4 +1,3 @@
-module github.com/sudheerpailu/cosmic/orbits/structure/go
+module go-dsa
 
-go 1.21
-
+go 1.25.5
